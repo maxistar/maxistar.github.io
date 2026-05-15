@@ -1,5 +1,8 @@
 - category: Web & UI
   projects:
+    - name: maxistar.ru
+      url: https://maxistar.ru
+      description: "Personal Blog"
     - name: ztools
       url: https://ztools.org
       description: "Zero-dependency reactive UI runtime for the browser. Signals, DOM builder, SSR, Web Components."
