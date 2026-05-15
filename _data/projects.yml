@@ -19,6 +19,19 @@
       url: https://github.com/maxistar/notes-md
       description: "CLI tool for managing a Markdown knowledge base with tags, back-links and Git sync."
 
+- category: Mechanical Keyboards
+  projects:
+    - name: Dacty
+      url: https://github.com/maxistar/dacty
+      description: "split keyboard with unified layouts"
+    - name: Corney
+      url: https://github.com/maxistar/corney
+      description: "A Corney Chocoflan keyboard"
+    - name: Keyboard layout helper
+      url: https://projects.maxistar.me/keyboard_helper/
+      description: "A cross-platform desktop overlay for split and ergonomic keyboards"
+
+
 - category: 3D Printing
   projects:
     - name: 3D Models
