@@ -1,0 +1,41 @@
+- category: Web & UI
+  projects:
+    - name: ztools
+      url: https://ztools.org
+      description: "Zero-dependency reactive UI runtime for the browser. Signals, DOM builder, SSR, Web Components."
+    - name: preloader.org
+      url: https://preloader.org
+      description: "Animated preloader and spinner generator."
+    - name: Lingvy
+      url: https://lingvy.xyz
+      description: "Language learning app."
+
+- category: Tools & CLI
+  projects:
+    - name: notes-md
+      url: https://github.com/maxistar/notes-md
+      description: "CLI tool for managing a Markdown knowledge base with tags, back-links and Git sync."
+
+- category: 3D Printing
+  projects:
+    - name: 3D Models
+      url: https://projects.maxistar.me/3d_models
+      description: "Parametric 3D models for printing: honeycomb wall system, cable organizers, self-watering pots and more. OpenSCAD + build123d."
+    - name: 3D Mint
+      url: https://3dmint.de
+      description: "Parametric 3D models collection"  
+
+- category: Mobile
+  projects:
+    - name: Simple Text Editor
+      url: https://simpleditor.org
+      description: Simple Text Editor for Android
+    - name: Watchface
+      url: https://github.com/maxistar/watchface
+      description: "WearOS watch face collection."
+    - name: MorseTrainer
+      url: https://github.com/maxistar/morsetrainer
+      description: "Android app for learning Morse code."
+    - name: GitSync
+      url: https://github.com/maxistar/git-sync
+      description: "Android app to sync files with a Git repository over SSH."

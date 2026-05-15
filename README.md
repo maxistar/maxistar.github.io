@@ -2,6 +2,25 @@
 
 Landing page for Maxim Starikov's projects.
 
+## Development
+
+### Adding a project
+
+Edit `_data/projects.yml` — add an entry under the appropriate category (or add a new category). No HTML changes needed.
+
+### Running locally
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+Then open http://localhost:4000.
+
+### Deployment
+
+Pushing to `master` triggers a GitHub Actions build that deploys to the `gh-pages` branch automatically.
+
 ## Projects
 
 ### Web & UI

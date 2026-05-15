@@ -1,0 +1,12 @@
+title: "Projects of Maxistar"
+description: "Landing page for Maxim Starikov's projects."
+url: "https://projects.maxistar.me"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - params.json
+  - openspec/
+  - .claude/
+  - .codex/
