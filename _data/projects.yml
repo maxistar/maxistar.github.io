@@ -2,13 +2,13 @@
   projects:
     - name: Simple Text Editor
       url: https://simpleditor.org
-      description: Text Editor for Android (over 1M installations)
+      description: Simple text editor for Android (over 1M installations).
 
 - category: Web & UI
   projects:
     - name: Biometric Photo Editor
       url: https://photos.preloader.org
-      description: "Privacy first legal photo generator"
+      description: "Privacy-first legal photo generator."
     - name: zTools
       url: https://ztools.org
       description: "Zero-dependency reactive UI runtime for the browser. Signals, DOM builder, SSR, Web Components."
@@ -23,13 +23,13 @@
   projects:
     - name: Simple Text Editor
       url: https://simpleditor.org
-      description: Simple Text Editor for Android
+      description: Simple text editor for Android.
     - name: Functional Watchfaces
       url: https://github.com/maxistar/watchface
-      description: "WearOS watch face collection focused on pesonal productivity and mindfullness"
+      description: "Wear OS watch face collection focused on personal productivity and mindfulness."
     - name: GitSync
       url: https://github.com/maxistar/git-sync
-      description: "Privacy first Android app to sync personal notes trough Git repository"
+      description: "Privacy-first Android app to sync personal notes through a Git repository."
     - name: MorseTrainer
       url: https://github.com/maxistar/morsetrainer
       description: "Android app for learning Morse code."
@@ -38,28 +38,28 @@
   projects:
     - name: Dacty
       url: https://github.com/maxistar/dacty
-      description: "split keyboard with unified layouts"
+      description: "Split keyboard with unified layouts."
     - name: Corney
       url: https://github.com/maxistar/corney
-      description: "A Corney Chocoflan keyboard"
+      description: "A Corney Chocoflan keyboard."
     - name: Keyboard layout helper
       url: https://projects.maxistar.me/keyboard_helper/
-      description: "A cross-platform desktop overlay for split and ergonomic keyboards"
+      description: "A cross-platform desktop overlay for split and ergonomic keyboards."
 
 - category: Tools & CLI
   projects:
     - name: notes-md
       url: https://github.com/maxistar/notes-md
-      description: "CLI tool for managing a Markdown knowledge base with tags, back-links and Git sync."
+      description: "CLI tool for managing a Markdown knowledge base with tags, backlinks, and Git sync."
 
 - category: 3D Printing
   projects:
     - name: 3D Models
       url: https://projects.maxistar.me/3d_models
-      description: "Parametric 3D models for printing: honeycomb wall system, cable organizers, self-watering pots and more. OpenSCAD + build123d."
+      description: "Parametric 3D models for printing: honeycomb wall system, cable organizers, self-watering pots, and more. OpenSCAD + build123d."
     - name: 3D Mint
       url: https://3dmint.de
-      description: "Parametric 3D models collection"
+      description: "Parametric 3D model collection."
     - name: 3D Printed Custom Blocknote
       url: https://blocknote.maxistar.me/
-      description: Your personal offline notetaking gadget
+      description: Your personal offline note-taking gadget.
