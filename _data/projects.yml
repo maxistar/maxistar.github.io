@@ -6,12 +6,12 @@
 
 - category: Web & UI
   projects:
-    - name: Biometric Photo Editor
-      url: https://photos.preloader.org
-      description: "Privacy-first legal photo generator."
     - name: zTools
       url: https://ztools.org
       description: "Zero-dependency reactive UI runtime for the browser. Signals, DOM builder, SSR, Web Components."
+    - name: Biometric Photo Editor
+      url: https://photos.preloader.org
+      description: "Privacy-first legal photo generator."
     - name: Preloader.org
       url: https://preloader.org
       description: "Animated preloader and spinner generator."
@@ -30,6 +30,9 @@
     - name: GitSync
       url: https://github.com/maxistar/git-sync
       description: "Privacy-first Android app to sync personal notes through a Git repository."
+    - name: Voice Inbox
+      url: https://github.com/maxistar/Voice-Inbox
+      description: "Android app for locally transcribing audio recordings into plain-text or Markdown notes."
     - name: MorseTrainer
       url: https://github.com/maxistar/morsetrainer
       description: "Android app for learning Morse code."

@@ -10,6 +10,13 @@ Edit `_data/projects.yml` — add an entry under the appropriate category (or ad
 
 ### Running locally
 
+Use Ruby 3.1 or newer. On macOS, make sure Homebrew Ruby is before the system
+Ruby in your `PATH`:
+
+```bash
+export PATH="/opt/homebrew/bin:$PATH"
+```
+
 ```bash
 bundle install
 bundle exec jekyll serve
